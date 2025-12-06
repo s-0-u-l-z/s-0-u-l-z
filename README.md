@@ -5,7 +5,7 @@ using namespace std;
 int main(){
   std::cout << "Hello Github!";
 
-  int age = 13;
+  int age = 1;
   string gender = "male";
   bool LuvsCoding = true;
 
